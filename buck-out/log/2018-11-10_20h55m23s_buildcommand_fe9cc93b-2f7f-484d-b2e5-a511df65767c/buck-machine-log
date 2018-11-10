@@ -1,0 +1,4 @@
+InvocationInfo {"buildId":"fe9cc93b-2f7f-484d-b2e5-a511df65767c","superConsoleEnabled":true,"isDaemon":false,"subCommand":"buildcommand","commandArgs":["build",":docopt_cpp"],"unexpandedCommandArgs":["build",":docopt_cpp"],"buckLogDir":"buck-out/log","timestampMillis":1541883323151}
+BuildFinished {"timestamp":1541883331075}
+Cache.Stats {"cacheHitsPerMode":{"dir":0},"cacheErrorsPerMode":{"dir":0},"totalCacheHits":0,"totalCacheErrors":0,"totalCacheMisses":0,"totalCacheIgnores":0,"totalCacheLocalKeyUnchangedHits":0,"successUploadCount":0,"failureUploadCount":0}
+ExitCode {"exitCode":10}

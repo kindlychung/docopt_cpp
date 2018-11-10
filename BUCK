@@ -6,7 +6,7 @@ prebuilt_cxx_library(
     ('', '*.h'),
   ]),
   licenses = [
-    'LICENSE',
+    'LICENSE-MIT',
   ],
   visibility = [
     'PUBLIC',

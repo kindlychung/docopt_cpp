@@ -1,0 +1,7 @@
+InvocationInfo {"buildId":"94d03091-f628-44b9-a873-960c11c9f4de","superConsoleEnabled":true,"isDaemon":false,"subCommand":"buildcommand","commandArgs":["build",":docopt_cpp"],"unexpandedCommandArgs":["build",":docopt_cpp"],"buckLogDir":"buck-out/log","timestampMillis":1541883353516}
+ParseStarted {"timestamp":1541883354828}
+ParseFinished {"timestamp":1541883354869}
+BuildRuleEvent.Finished {"timestamp":1541883356637,"duration":{"wallMillisDuration":445},"status":"SUCCESS","cacheResult":{"type":"IGNORED"},"origin":"94d03091-f628-44b9-a873-960c11c9f4de","ruleKeys":{"ruleKey":{"hashCode":"94fa3ef7d442cc0514872f2dc5846b5d41565678"}},"outputHash":"d480e49b3a0cceda283039e8074b33d425f51a0b","successTypeName":"BUILT_LOCALLY","buildRule":{"type":"prebuilt_cxx_library","name":"//:docopt_cpp"}}
+BuildFinished {"timestamp":1541883356646}
+Cache.Stats {"cacheHitsPerMode":{"dir":0},"cacheErrorsPerMode":{"dir":0},"totalCacheHits":0,"totalCacheErrors":0,"totalCacheMisses":0,"totalCacheIgnores":1,"totalCacheLocalKeyUnchangedHits":0,"successUploadCount":0,"failureUploadCount":0}
+ExitCode {"exitCode":0}
