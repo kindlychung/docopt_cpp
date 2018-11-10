@@ -30,3 +30,11 @@ docopt-config-version.cmake
 
 # Files configured by CMake
 run_tests
+
+
+# buck related
+/buck-out/
+/.buckd/
+/buckaroo/
+.buckconfig.local
+BUCKAROO_DEPS
